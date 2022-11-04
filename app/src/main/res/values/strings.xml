@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string-array name="Unidades">
+        <item>138</item>
+        <item>181</item>
+        <item>F-0001</item>
+        <item>F-020</item>
+        <item>F-046</item>
+        <item>F-472</item>
+        <item>F-52</item>
+        <item>F-57</item>
+        <item>U-024</item>
+        <item>U-060</item>
+        <item>U-099</item>
+        <item>U-108</item>
+        <item>U-113</item>
+        <item>U-116</item>
+        <item>U-126</item>
+    </string-array>
+
+</resources>
